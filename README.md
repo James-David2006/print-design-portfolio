@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # 💍 Print Design Portfolio
@@ -26,9 +27,8 @@ as beautiful in hand as it looks on screen.
 
 <table>
   <tr>
-    <td align="center"><img src="wedding-cards/wedding-card-01.jpg" width="280"/><br/><b>Wedding Card — 01</b></td>
-    <td align="center"><img src="wedding-cards/wedding-card-02.jpg" width="280"/><br/><b>Wedding Card — 02</b></td>
-    <td align="center"><img src="wedding-cards/wedding-card-03.jpg" width="280"/><br/><b>Wedding Card — 03</b></td>
+    <td align="center"><img src="wedding-card-01.jpg" width="380"/><br/><b>Wedding Card — 01</b></td>
+    <td align="center"><img src="wedding-card-02.jpg" width="380"/><br/><b>Wedding Card — 02</b></td>
   </tr>
 </table>
 
@@ -40,8 +40,9 @@ as beautiful in hand as it looks on screen.
 
 <table>
   <tr>
-    <td align="center"><img src="event-stationery/event-stationery-01.jpg" width="380"/><br/><b>Event Stationery — 01</b></td>
-    <td align="center"><img src="event-stationery/event-stationery-02.jpg" width="380"/><br/><b>Event Stationery — 02</b></td>
+    <td align="center"><img src="event-stationery-01.jpg" width="280"/><br/><b>Event Stationery — 01</b></td>
+    <td align="center"><img src="event-stationery-03.jpg" width="280"/><br/><b>Event Stationery — 03</b></td>
+    <td align="center"><img src="event-stationery-05.png" width="280"/><br/><b>Event Stationery — 05</b></td>
   </tr>
 </table>
 
@@ -51,7 +52,6 @@ as beautiful in hand as it looks on screen.
 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
-![Adobe InDesign](https://img.shields.io/badge/Adobe_InDesign-FF3366?style=flat-square&logo=adobeindesign&logoColor=white)
 
 ---
 
